@@ -24,7 +24,7 @@ import (
     "os"
     "time"
 
-    "github.com/influxdata/influxdb/client/v2"
+    "https://github.com/influxdata/influxdb/tree/1.7/client/v2"
 
     "github.com/faryon93/hlswatch/state"
 )
